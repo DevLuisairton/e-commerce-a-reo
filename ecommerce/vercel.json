@@ -1,3 +1,9 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+  "rewrites": [
+    { "source": "/index.html", "destination": "/aluguel_carros.html" },
+    { "source": "/index.html", "destination": "/hotel.html" },
+    { "source": "/index.html", "destination": "/companhia_aerea.html" },
+    { "source": "/index.html", "destination": "/servicos.html" },
+    { "source": "/(.*)", "destination": "/" }
+  ]
 }

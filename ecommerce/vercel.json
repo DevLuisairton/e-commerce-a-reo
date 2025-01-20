@@ -1,9 +1,9 @@
 {
   "rewrites": [
-    { "source": "/index.html", "destination": "/aluguel_carros.html" },
-    { "source": "/index.html", "destination": "/hotel.html" },
-    { "source": "/index.html", "destination": "/companhia_aerea.html" },
-    { "source": "/index.html", "destination": "/servicos.html" },
+    { "source": "/ecommerce/index.html", "destination": "/ecommerce/aluguel_carros.html" },
+    { "source": "/ecommerce/index.html", "destination": "/ecommerce/hotel.html" },
+    { "source": "/ecommerce/index.html", "destination": "/ecommerce/companhia_aerea.html" },
+    { "source": "/ecommerce/index.html", "destination": "/ecommerce/servicos.html" },
     { "source": "/(.*)", "destination": "/" }
   ]
 }
